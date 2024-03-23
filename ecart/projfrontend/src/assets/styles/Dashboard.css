@@ -1,0 +1,16 @@
+.dashboard-body{    
+    background-image: url("https://images.pexels.com/photos/10664917/pexels-photo-10664917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+}
+
+.dashboard-body .card{
+background-color: rgba(0, 0, 0,0.5);
+color: white;
+margin-right: 120px;
+width: 500px;
+}
+.dashboard-body .edit{
+    color: white;
+}

@@ -1,0 +1,21 @@
+
+.signup label {
+  font-weight: bold;
+}
+
+.signup-body{
+  width: 100%;
+  height: 658px;
+  background-size: cover;
+  background-image: url("https://images.pexels.com/photos/10664917/pexels-photo-10664917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.signup-container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 150px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  color: black;
+  padding: 20px;
+}

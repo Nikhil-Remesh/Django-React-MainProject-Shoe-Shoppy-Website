@@ -1,0 +1,22 @@
+footer{
+    color: white;
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 50px;
+    
+}
+footer a{
+    color: rgb(169, 165, 165);
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+footer li{
+    list-style-type: none;
+}
+.footer-title{
+    font-weight: bold;
+}
+.footer-logo h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

@@ -1,0 +1,23 @@
+.product-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-details h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.product-details p {
+    margin-bottom: 0px;
+}
+
+.add-to-cart {
+    margin-top: 5px;
+}
+
+.product-image img {
+    max-width: 35%;
+    height: auto;
+}
